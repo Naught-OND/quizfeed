@@ -87,7 +87,7 @@ class QfNavbar extends React.Component {
                     <NavItem className="login-btn">
 
                       <GoogleLogin
-                        clientId="827588567531-e91v1ho0plbtqgcbd8am9cn5sj6rlvqh.apps.googleusercontent.com"
+                        clientId="446846989002-umjlf3qctcktabsieq33r5gjjmdboh0s.apps.googleusercontent.com"
                         onSuccess={this.success}
                         onFailure={this.failure}
                         style={{}}
