@@ -214,7 +214,7 @@ class Home extends React.Component{
                         :        
                         <Button className="btn-info btn-newquiz">               
                         <GoogleLogin
-                            clientId="827588567531-e91v1ho0plbtqgcbd8am9cn5sj6rlvqh.apps.googleusercontent.com"
+                            clientId="446846989002-umjlf3qctcktabsieq33r5gjjmdboh0s.apps.googleusercontent.com"
                             onSuccess={this.success}
                             onFailure={this.failure}
                             tag="span"
